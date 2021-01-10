@@ -20,7 +20,7 @@ public class JokeController {
     public String showJoke(Model model){
         model.addAttribute("joke", jokeService.getJoke());
 
-        return "index";
+        return "chucknorris";
     }
 
 }
