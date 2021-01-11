@@ -2,6 +2,8 @@
 
 This Spring Boot web application displays a random Chuck Norris Joke on the index.
 
+![image](images/demo.gif)
+
 ## Detail Description
 
 Following the instructions of an online course about Spring Framework 5 on Udemy, I build this toy web application. It contains a Spring Service Layer (JokeService & JokeServiceimpl), a Spring MVC Controller (JokeController) and a View Layer (insides resources/templates). 
